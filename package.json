@@ -1,0 +1,26 @@
+{
+  "name": "svelte-datepicker",
+  "version": "0.0.1",
+  "description": "The project is a fork of the \"svelte-calendar-resurrected\" project. Universal datepicker. Allows you to select a date range consisting of days, weeks, months and years",
+  "main": "src/Datepicker.svelte",
+  "directories": {
+    "lib": "src/lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvarel2509/svelte-datepicker.git"
+  },
+  "keywords": ["svelte-calendar", "svelte-datepicker", "range", "calendar", "datepicker"],
+  "author": "kvarel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvarel2509/svelte-datepicker/issues"
+  },
+  "homepage": "https://github.com/kvarel2509/svelte-datepicker#readme",
+  "dependencies": {
+    "timeUtils": "^2.0.0"
+  }
+}
